@@ -14,5 +14,4 @@ Les projets Spring Boot incluent un framework de test par défaut.
 
 ## Exemple d'un programme de test
 
-https://github.com/charroux/springbootest/blob/main/src/test/java/com/example/springbootest/SpringbootestApplicationTests.java
-
+https://github.com/bouchaiblemaire/r402_2025_qual_dev_springboot/blob/main/src/test/java/com/example/springbootest/SpringbootestApplicationTests.java
