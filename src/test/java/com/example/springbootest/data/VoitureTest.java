@@ -1,6 +1,5 @@
-package com.example.springbootest.metier;
+package com.example.springbootest.data;
 
-import com.example.springbootest.metier.Voiture;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

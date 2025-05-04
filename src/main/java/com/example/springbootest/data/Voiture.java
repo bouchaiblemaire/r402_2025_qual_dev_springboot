@@ -1,4 +1,4 @@
-package com.example.springbootest.metier;
+package com.example.springbootest.data;
 
 
 import java.util.Objects;
